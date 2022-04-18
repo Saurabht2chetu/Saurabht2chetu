@@ -24,6 +24,6 @@ States are the heart of React components. States are the source of data and must
 # What are Props in React?
 Props is the shorthand for Properties in React. They are read-only components which must be kept pure i.e. immutable. They are always passed down from the parent to the child components throughout the application. A child component can never send a prop back to the parent component. This help in maintaining the unidirectional data flow and are generally used to render the dynamically generated data.
 
-# What is Virtual DOM and How it
+# What is Virtual DOM and How it used?
 
 
